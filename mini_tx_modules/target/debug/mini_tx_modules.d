@@ -1,0 +1,1 @@
+C:\Users\ikord\Desktop\rust_kno9535\mini_tx_modules\target\debug\mini_tx_modules.exe: C:\Users\ikord\Desktop\rust_kno9535\mini_tx_modules\src\main.rs C:\Users\ikord\Desktop\rust_kno9535\mini_tx_modules\src\network\fees.rs C:\Users\ikord\Desktop\rust_kno9535\mini_tx_modules\src\network.rs C:\Users\ikord\Desktop\rust_kno9535\mini_tx_modules\src\tx.rs
