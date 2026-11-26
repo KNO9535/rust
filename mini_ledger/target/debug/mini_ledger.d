@@ -1,0 +1,1 @@
+C:\Users\ikord\Desktop\rust_kno9535\mini_ledger\target\debug\mini_ledger.exe: C:\Users\ikord\Desktop\rust_kno9535\mini_ledger\src\ledger.rs C:\Users\ikord\Desktop\rust_kno9535\mini_ledger\src\lib.rs C:\Users\ikord\Desktop\rust_kno9535\mini_ledger\src\main.rs C:\Users\ikord\Desktop\rust_kno9535\mini_ledger\src\tx.rs
