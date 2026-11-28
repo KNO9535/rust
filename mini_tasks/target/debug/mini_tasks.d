@@ -1,0 +1,1 @@
+C:\Users\ikord\Desktop\rust_kno9535\mini_tasks\target\debug\mini_tasks.exe: C:\Users\ikord\Desktop\rust_kno9535\mini_tasks\src\board.rs C:\Users\ikord\Desktop\rust_kno9535\mini_tasks\src\lib.rs C:\Users\ikord\Desktop\rust_kno9535\mini_tasks\src\main.rs C:\Users\ikord\Desktop\rust_kno9535\mini_tasks\src\task.rs
